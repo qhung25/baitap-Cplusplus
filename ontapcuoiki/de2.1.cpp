@@ -155,6 +155,6 @@ int main()
     isMostSib(root, maxTrucThuoc, p);
         
     if (p != nullptr)
-        cout << "Thanh pho co nhieu nhat la" << p->name << " voi so luong la" << maxTrucThuoc << endl;
+        cout << "Thanh pho co nhieu quan nhat la " << p->name << " voi so luong la " << maxTrucThuoc << endl;
 
 }
